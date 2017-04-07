@@ -3,7 +3,11 @@ README.md
 #JavaScript: Reindeer
 
 ## Discription
-This JS file loops through all the listed reindeer in the array, and add the name of the reindeer to the single HTML <div> element provided. The name of the reindeer should be prepended with the corresponding color from the other array.
+The task is to loop through all the listed reindeer in the array, and add the name of the reindeer to the single HTML <div> element provided. The name of the reindeer should be prepended with the corresponding color from the other array.
+
+For example:
+
+Blue Dasher, Red Dancer, etc. 
 
 ```
 http-server -p 9999
